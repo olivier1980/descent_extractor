@@ -1,0 +1,4 @@
+input/DESCENT.*
+output/*
+converted/background/*.png
+.idea
